@@ -1,2 +1,1 @@
-# Bot-2
-https://replit.com/@ACEMasteryi12/Bot2
+#bị lỗi canvas thì: npm i canvas@2.7.0 , npm i sqlite3
